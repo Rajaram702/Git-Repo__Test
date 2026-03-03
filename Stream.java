@@ -1,0 +1,1 @@
+Stream.of(6,2,7,9,4).forEach(System.out::println);
