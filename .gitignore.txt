@@ -1,0 +1,2 @@
+Funny.txt/
+Funny.txt
