@@ -1,1 +1,1 @@
-Gunnn
+shot by gun
